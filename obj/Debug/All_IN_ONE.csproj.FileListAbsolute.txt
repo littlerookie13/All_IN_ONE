@@ -1,0 +1,11 @@
+C:\Users\Leo\Desktop\Windows Form Softwares\All_IN_ONE\bin\Debug\All_IN_ONE.exe.config
+C:\Users\Leo\Desktop\Windows Form Softwares\All_IN_ONE\bin\Debug\All_IN_ONE.exe
+C:\Users\Leo\Desktop\Windows Form Softwares\All_IN_ONE\bin\Debug\All_IN_ONE.pdb
+C:\Users\Leo\Desktop\Windows Form Softwares\All_IN_ONE\obj\Debug\All_IN_ONE.Form1.resources
+C:\Users\Leo\Desktop\Windows Form Softwares\All_IN_ONE\obj\Debug\All_IN_ONE.Properties.Resources.resources
+C:\Users\Leo\Desktop\Windows Form Softwares\All_IN_ONE\obj\Debug\All_IN_ONE.csproj.GenerateResource.cache
+C:\Users\Leo\Desktop\Windows Form Softwares\All_IN_ONE\obj\Debug\All_IN_ONE.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\Windows Form Softwares\All_IN_ONE\obj\Debug\All_IN_ONE.exe
+C:\Users\Leo\Desktop\Windows Form Softwares\All_IN_ONE\obj\Debug\All_IN_ONE.pdb
+C:\Users\Leo\Desktop\Windows Form Softwares\All_IN_ONE\obj\Debug\All_IN_ONE.csprojAssemblyReference.cache
+C:\Users\Leo\Desktop\Windows Form Softwares\All_IN_ONE\obj\Debug\All_IN_ONE.Form2.resources
